@@ -1,5 +1,5 @@
 # image_segmentation
-algorythm of image segmentation using classterization by nearest neighbour.
+Algorithm of image segmentation using nearest neighbour classterization.
 
-Function segmentation gets image and count of segments.
+Function segmentation gets image and count segments.
 It returns segmented image.
